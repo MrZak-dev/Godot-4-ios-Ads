@@ -267,7 +267,7 @@
 					"$(SRCROOT)/godot/modules",
 					"$(SRCROOT)/godot/scene",
 					"$(SRCROOT)/godot/drivers",
-					"$(SRCROOT)/godot/trirdparty",
+					"$(SRCROOT)/godot/thirdparty",
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,7 +306,7 @@
 					"$(SRCROOT)/godot/modules",
 					"$(SRCROOT)/godot/scene",
 					"$(SRCROOT)/godot/drivers",
-					"$(SRCROOT)/godot/trirdparty",
+					"$(SRCROOT)/godot/thirdparty",
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
